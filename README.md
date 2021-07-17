@@ -14,4 +14,5 @@ use "git rm --cached <file>..." to unstage
 
 git init -> initializes a repo 
 git add -> add/tracks the file to staging
-git coit -> pushed the added changes/file to local repo
+git commit -> pushed the added changes/file to local repo
+git diff -> shows difference between directory and staging
